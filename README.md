@@ -3,6 +3,7 @@
 ### Objetivo
 
 Compreendendo o Pytorch seguindo os tutoriais da própria documentação
+
 Fonte: <https://pytorch.org/tutorials/beginner/basics/intro.html>
 
 ### Autora
